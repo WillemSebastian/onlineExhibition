@@ -11,7 +11,7 @@ function Prenagen() {
         className="prenagen-video"
         width="420"
         height="315"
-        src="http://www.youtube.com/embed/oHg5SJYRHA0?autoplay=1&mute=1"
+        src="http://wp-2gather.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/10/15083654/PRENAGEN_HD2.mp4"
       ></iframe>
       <a href="https://api.whatsapp.com/send?phone=62818800845">
         <button className="prenagen-chat">Chat Now</button>
