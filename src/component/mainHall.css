@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-main {
+  height: 100vh;
+  width: 100vw;
+  pointer-events: none;
+  position: relative;
+}
+
+.App-main-exhibition-hall {
+  top: 73%;
+  left: 8%;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  position: absolute;
+}
+
+.App-main-exhibition-hall:hover {
+  cursor: pointer;
+}
+
+.App-main-registration {
+  top: 80%;
+  left: 47%;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  position: absolute;
+}
+
+.App-main-registration:hover {
+  cursor: pointer;
+}
+
+.App-main-zoom {
+  top: 73%;
+  left: 87%;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  position: absolute;
+}
+
+.App-main-zoom:hover {
+  cursor: pointer;
+}

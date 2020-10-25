@@ -1,0 +1,49 @@
+.Hall {
+  text-align: center;
+}
+
+.Hall-main {
+  height: 100vh;
+  width: 100vw;
+  pointer-events: none;
+  position: relative;
+}
+
+.prenagen-booth {
+  top: 35%;
+  left: 10%;
+  height: 8vh;
+  font-size: 3vh;
+  border-radius: 50px;
+  background-color: #d657b8bf;
+  padding: 20px;
+  color: white;
+  position: absolute;
+  border-color: transparent;
+}
+
+.prenagen-booth:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.backToLobby {
+  top: 5%;
+  left: 5%;
+  height: 4vh;
+  font-size: 15px;
+  border-radius: 50px;
+  background-color: #ff3a2dbf;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  position: absolute;
+  border-color: transparent;
+}
+
+.backToLobby:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}

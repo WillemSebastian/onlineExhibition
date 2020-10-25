@@ -1,0 +1,90 @@
+.Prenagen {
+  text-align: center;
+}
+
+.Prenagen-main {
+  height: 100vh;
+  width: 100vw;
+  pointer-events: none;
+  position: relative;
+}
+
+.prenagen-video {
+  top: 43%;
+  left: 13%;
+  height: 13vh;
+  width: 13vw;
+  position: absolute;
+  border: transparent;
+}
+
+.prenagen-chat {
+  top: 85%;
+  left: 90%;
+  height: 5vh;
+  width: 5vw;
+  position: absolute;
+  border: transparent;
+  border-radius: 50px;
+}
+
+.prenagen-chat:hover {
+  cursor: pointer;
+}
+
+.prenagen-back-to-hall {
+  top: 5%;
+  left: 85%;
+  height: 5vh;
+  width: 10vw;
+  position: absolute;
+  border: transparent;
+  border-radius: 50px;
+  background-color: #ff3a2dbf;
+  color: white;
+}
+
+.prenagen-back-to-hall:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.prenagen-detail1 {
+  top: 40%;
+  left: 32.5%;
+  height: 2.5vh;
+  width: 6vw;
+  position: absolute;
+  border: transparent;
+  border-radius: 50px;
+  background-color: #ff3a2dbf;
+  color: white;
+  cursor: pointer;
+}
+
+.prenagen-detail2 {
+  top: 40%;
+  left: 40.5%;
+  height: 2.5vh;
+  width: 6vw;
+  position: absolute;
+  border: transparent;
+  border-radius: 50px;
+  background-color: #ff3a2dbf;
+  color: white;
+  cursor: pointer;
+}
+
+.prenagen-detail3 {
+  top: 40%;
+  left: 49%;
+  height: 2.5vh;
+  width: 6vw;
+  position: absolute;
+  border: transparent;
+  border-radius: 50px;
+  background-color: #ff3a2dbf;
+  color: white;
+  cursor: pointer;
+}

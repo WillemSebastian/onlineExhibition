@@ -1,0 +1,39 @@
+.container {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 5vh;
+  text-align: center;
+}
+
+.prenagenProduct {
+  width: 30vw;
+  height: 60vh;
+}
+
+.element {
+  display: flex;
+  flex-direction: row;
+}
+
+.prenagen-title {
+  font-size: 4vh;
+  font-weight: bold;
+}
+
+.prenagen-description {
+  margin-top: 10vh;
+  border: 1px solid grey;
+  padding: 30px;
+  color: grey;
+  text-align: left;
+}
+
+.back-button {
+  height: 4vh;
+  width: 10vw;
+  border: transparent;
+  border-radius: 50px;
+  background-color: #ff3a2dbf;
+  color: white;
+  cursor: pointer;
+}
