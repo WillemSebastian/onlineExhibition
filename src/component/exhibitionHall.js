@@ -7,7 +7,10 @@ function ExhibitionHall() {
   return (
     <>
       <img src={exhibitionHall} className="Hall-main" />
-      <button className="backToLobby" onClick={() => history.push("/")}>
+      <button
+        className="backToLobby"
+        onClick={() => history.push("/onlineExhibition")}
+      >
         {` < KEMBALI KE LOBBY UTAMA `}
       </button>
       <button

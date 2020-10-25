@@ -30,7 +30,10 @@ function PrenagenDetail() {
           </div>
         </div>
       </div>
-      <button className="back-button" onClick={() => history.push("/")}>
+      <button
+        className="back-button"
+        onClick={() => history.push("/onlineExhibition")}
+      >
         BACK TO BOOTH
       </button>
     </div>

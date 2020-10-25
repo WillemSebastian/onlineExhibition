@@ -18,7 +18,7 @@ function Prenagen() {
       </a>
       <button
         className="prenagen-back-to-hall"
-        onClick={() => history.push("/")}
+        onClick={() => history.push("/onlineExhibition")}
       >
         Kembali Ke Hall >
       </button>

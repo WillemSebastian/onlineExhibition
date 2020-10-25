@@ -13,7 +13,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Router>
       <Switch>
-        <Route exact path="/" component={MainHall}></Route>
+        <Route exact path="/onlineExhibition" component={MainHall}></Route>
         <Route path="/exhibitionHall" component={ExhibitionHall}></Route>
         <Route path="/prenagen" component={Prenagen}></Route>
         <Route path="/prenagenDetail" component={PrenagenDetail}></Route>
