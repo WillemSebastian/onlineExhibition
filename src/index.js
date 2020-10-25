@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+import App from "./App";
 import MainHall from "./component/mainHall";
 import ExhibitionHall from "./component/exhibitionHall";
 import Prenagen from "./component/prenagen";
@@ -10,14 +11,15 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    {/* <Router>
       <Switch>
         <Route exact path="/" component={MainHall}></Route>
         <Route path="/exhibitionHall" component={ExhibitionHall}></Route>
         <Route path="/prenagen" component={Prenagen}></Route>
         <Route path="/prenagenDetail" component={PrenagenDetail}></Route>
       </Switch>
-    </Router>
+    </Router> */}
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
