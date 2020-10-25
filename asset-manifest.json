@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/onlineExhibition/static/css/main.49645ea2.chunk.css",
-    "main.js": "/onlineExhibition/static/js/main.21360954.chunk.js",
-    "main.js.map": "/onlineExhibition/static/js/main.21360954.chunk.js.map",
-    "runtime-main.js": "/onlineExhibition/static/js/runtime-main.c1393687.js",
-    "runtime-main.js.map": "/onlineExhibition/static/js/runtime-main.c1393687.js.map",
-    "static/js/2.d2edc6df.chunk.js": "/onlineExhibition/static/js/2.d2edc6df.chunk.js",
-    "static/js/2.d2edc6df.chunk.js.map": "/onlineExhibition/static/js/2.d2edc6df.chunk.js.map",
-    "static/js/3.b98e5868.chunk.js": "/onlineExhibition/static/js/3.b98e5868.chunk.js",
-    "static/js/3.b98e5868.chunk.js.map": "/onlineExhibition/static/js/3.b98e5868.chunk.js.map",
+    "main.js": "/onlineExhibition/static/js/main.b4a0a0e1.chunk.js",
+    "main.js.map": "/onlineExhibition/static/js/main.b4a0a0e1.chunk.js.map",
+    "runtime-main.js": "/onlineExhibition/static/js/runtime-main.8192ae59.js",
+    "runtime-main.js.map": "/onlineExhibition/static/js/runtime-main.8192ae59.js.map",
+    "static/js/2.f516d98c.chunk.js": "/onlineExhibition/static/js/2.f516d98c.chunk.js",
+    "static/js/2.f516d98c.chunk.js.map": "/onlineExhibition/static/js/2.f516d98c.chunk.js.map",
+    "static/js/3.643600f1.chunk.js": "/onlineExhibition/static/js/3.643600f1.chunk.js",
+    "static/js/3.643600f1.chunk.js.map": "/onlineExhibition/static/js/3.643600f1.chunk.js.map",
     "index.html": "/onlineExhibition/index.html",
     "static/css/main.49645ea2.chunk.css.map": "/onlineExhibition/static/css/main.49645ea2.chunk.css.map",
-    "static/js/2.d2edc6df.chunk.js.LICENSE.txt": "/onlineExhibition/static/js/2.d2edc6df.chunk.js.LICENSE.txt",
+    "static/js/2.f516d98c.chunk.js.LICENSE.txt": "/onlineExhibition/static/js/2.f516d98c.chunk.js.LICENSE.txt",
     "static/media/exhibitionHall.1049c6dc.jpg": "/onlineExhibition/static/media/exhibitionHall.1049c6dc.jpg",
     "static/media/mainLobby.52d883fc.jpg": "/onlineExhibition/static/media/mainLobby.52d883fc.jpg",
     "static/media/prenagen.84d4a1c0.jpg": "/onlineExhibition/static/media/prenagen.84d4a1c0.jpg",
     "static/media/prenagenMommy.5e789b5b.png": "/onlineExhibition/static/media/prenagenMommy.5e789b5b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1393687.js",
-    "static/js/2.d2edc6df.chunk.js",
+    "static/js/runtime-main.8192ae59.js",
+    "static/js/2.f516d98c.chunk.js",
     "static/css/main.49645ea2.chunk.css",
-    "static/js/main.21360954.chunk.js"
+    "static/js/main.b4a0a0e1.chunk.js"
   ]
 }
