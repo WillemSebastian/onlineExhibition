@@ -11,15 +11,15 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <Router>
+    <Router>
       <Switch>
         <Route exact path="/" component={MainHall}></Route>
         <Route path="/exhibitionHall" component={ExhibitionHall}></Route>
         <Route path="/prenagen" component={Prenagen}></Route>
         <Route path="/prenagenDetail" component={PrenagenDetail}></Route>
       </Switch>
-    </Router> */}
-    <App />
+    </Router>
+    {/* <App /> */}
   </React.StrictMode>,
   document.getElementById("root")
 );
